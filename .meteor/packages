@@ -6,10 +6,10 @@
 meteor-platform
 autopublish
 insecure
-bootstrap-3
 accounts-ui-bootstrap-3
 accounts-base
 accounts-password
 accounts-facebook
 service-configuration
+bootstrap-3
 
